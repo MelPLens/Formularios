@@ -1,4 +1,4 @@
-##Escola Infantil de Cursos
+Escola Infantil de Cursos
 
 Este repositório contém um projeto de inscrição em cursos de extensão de uma escola infantil. Os usuários podem preencher um formulário com informações pessoais, dos pais e detalhes do curso. Os dados são enviados para uma API que os armazena e processa. 
 
